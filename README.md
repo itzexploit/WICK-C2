@@ -21,8 +21,6 @@ pip3 install colorama fake_useragent
 
 ]
 
-]
-
 ⭐ FOR WINDOWS : [
 
 Download & Install Python3 : https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe
